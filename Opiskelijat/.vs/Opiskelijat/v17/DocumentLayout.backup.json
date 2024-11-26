@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\opiskelijat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|solutionrelative:opiskelijat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|c:\\users\\gr275778\\source\\repos\\opiskelijat\\opiskelijat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|solutionrelative:opiskelijat\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|c:\\users\\gr275778\\source\\repos\\opiskelijat\\opiskelijat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|solutionrelative:opiskelijat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|c:\\users\\gr275778\\source\\repos\\opiskelijat\\opiskelijat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A79487-9925-4EEE-B4E2-6B26DEE97A75}|Opiskelijat\\Opiskelijat.csproj|solutionrelative:opiskelijat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gr275778\\AppData\\Local\\Temp\\uqpz51kt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gr275778\\AppData\\Local\\Temp\\uqpz51kt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gr275778\\AppData\\Local\\Temp\\uqpz51kt..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.cs",
+              "RelativeDocumentMoniker": "Opiskelijat\\Form1.cs",
+              "ToolTip": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.cs*",
+              "RelativeToolTip": "Opiskelijat\\Form1.cs*",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAwHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:39:57.898Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Program.cs",
+              "RelativeDocumentMoniker": "Opiskelijat\\Program.cs",
+              "ToolTip": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Program.cs",
+              "RelativeToolTip": "Opiskelijat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:19:22.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\gr275778\\AppData\\Local\\Temp\\uqpz51kt..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\uqpz51kt..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-26T06:51:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Opiskelijat\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.Designer.cs*",
+              "RelativeToolTip": "Opiskelijat\\Form1.Designer.cs*",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAjwHMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T08:18:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.cs",
+              "RelativeDocumentMoniker": "Opiskelijat\\Form1.cs",
+              "ToolTip": "C:\\Users\\gr275778\\source\\repos\\Opiskelijat\\Opiskelijat\\Form1.cs [Design]*",
+              "RelativeToolTip": "Opiskelijat\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:54:46.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
