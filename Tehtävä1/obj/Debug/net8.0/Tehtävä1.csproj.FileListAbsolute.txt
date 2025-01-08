@@ -12,3 +12,4 @@ C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\refint\Tehtä
 C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.pdb
 C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.genruntimeconfig.cache
 C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\ref\Tehtävä1.dll
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.csproj.AssemblyReference.cache
