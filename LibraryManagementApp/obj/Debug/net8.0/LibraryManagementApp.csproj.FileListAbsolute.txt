@@ -1,4 +1,0 @@
-C:\Users\verne\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\verne\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfoInputs.cache
-C:\Users\verne\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfo.cs
-C:\Users\verne\source\repos\LibraryManagementApp\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.csproj.CoreCompileInputs.cache

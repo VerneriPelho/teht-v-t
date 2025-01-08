@@ -1,0 +1,14 @@
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\bin\Debug\net8.0\Tehtävä1.exe
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\bin\Debug\net8.0\Tehtävä1.deps.json
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\bin\Debug\net8.0\Tehtävä1.runtimeconfig.json
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\bin\Debug\net8.0\Tehtävä1.dll
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\bin\Debug\net8.0\Tehtävä1.pdb
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.AssemblyInfoInputs.cache
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.AssemblyInfo.cs
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.csproj.CoreCompileInputs.cache
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.dll
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\refint\Tehtävä1.dll
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.pdb
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\Tehtävä1.genruntimeconfig.cache
+C:\Users\verne\source\repos\Tehtävä1\Tehtävä1\obj\Debug\net8.0\ref\Tehtävä1.dll
